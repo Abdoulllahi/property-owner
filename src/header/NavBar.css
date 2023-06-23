@@ -1,0 +1,25 @@
+.navbar {
+    display:flex;
+    justify-content:flex-end;
+    background-color: #b49a7c;
+    border-bottom: 33px solid #b49a7c;
+    margin: -10px;
+  }
+    
+  .link {
+    margin: 22px 22px 0px 10px;
+    text-decoration: none;
+    color: #0d0d0d;
+    font-size: 22px;
+  }
+
+  .but {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #dadcdc;
+    color: rgb(11, 11, 11);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
